@@ -1,0 +1,2 @@
+-- Customer Shopping Behavior Analysis
+-- SQL Business Analysis using MySQL
